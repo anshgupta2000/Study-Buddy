@@ -1,0 +1,5 @@
+/Server/node-modules
+
+/StudyBuddy/envfile.txt
+
+*.env
